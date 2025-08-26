@@ -1,4 +1,4 @@
-# Tetris with Custom Memory Management
+# Tetris
 
 A classic Tetris implementation in C++ with Raylib, featuring custom memory management through a doubly-linked list and persistent score tracking.
 
