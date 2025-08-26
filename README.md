@@ -31,3 +31,20 @@ A classic Tetris implementation in C++ with Raylib, featuring custom memory mana
 | <kbd>↓</kbd>  | Soft drop (accelerate falling)  |
 | <kbd>↑</kbd>  | Rotate tetromino                |
 | <kbd>Esc</kbd> | Exit to menu                    |
+
+## Building and Running
+
+### Before
+*   Visual Studio 2022
+*   Raylib library installed
+*   C++17 compatible compiler
+
+### Steps
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/marrreric/coursework-sinev.git
+    cd Tetris5
+    ```
+2. Open the Visual Studio solution file (Tetris5.sln)
+3. Build the solution (Ctrl + Shift + B)
+4. Run the executable (F5)
